@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# IntelliJ / Eclipse / VS Code
+.idea/
+.vscode/
+*.iml
+
+# Packaged application
+MJPrank/
+installer/
+
+# Personal audio files
+sounds/
+
+# OS files
+.DS_Store
+Thumbs.db
